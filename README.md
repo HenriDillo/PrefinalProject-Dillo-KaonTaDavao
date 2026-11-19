@@ -59,6 +59,14 @@ DELETE reviews/{review} .. reviews.destroy
 
 ## Screenshots
 
-- [Eatery list](screenshots/eatery-list.png)
-- [Eatery page with reviews](screenshots/eatery-reviews.png)
-- [Create form validation errors](screenshots/create-validation-errors.png)
+### Eatery list
+
+![Eatery list](screenshots/eatery-list.png)
+
+### Eatery page with reviews
+
+![Eatery page with reviews](screenshots/eatery-reviews.png)
+
+### Create form validation errors
+
+![Create form validation errors](screenshots/create-validation-errors.png)
